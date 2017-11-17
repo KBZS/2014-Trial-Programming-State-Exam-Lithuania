@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484411779 source:c:\users\admin\desktop\kb\2014 2 uzd bandomasis saviv. it apskr.\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
